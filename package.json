@@ -1,0 +1,24 @@
+{
+  "name": "config-build",
+  "version": "0.0.0",
+  "description": "Build configs for different environments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:j4m355/config-build.git"
+  },
+  "keywords": [
+    "config",
+    ".net",
+    "environments"
+  ],
+  "author": "j4m355",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j4m355/config-build/issues"
+  },
+  "homepage": "https://github.com/j4m355/config-build"
+}
